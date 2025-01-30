@@ -23,26 +23,29 @@ PatikaflixSeriesPlatform
 │── KomediDizisi.cs
 │── README.md
 ```
-## 🖥️ Örnek Çıktı
-Dizi Adı: Avrupa Yakası
-Yapım Yılı: 2004
-Türü: Komedi
-Yayınlanmaya Başlama Yılı: 2004
-Yönetmen: Yüksel Aksu
-Yayınlandığı Platform: Kanal D
-Yeni bir dizi eklemek istiyor musunuz? (E/H): E
+## 📺 Girilen Diziler ve Çıktılar
 
-Dizi Adı: Arka Sokaklar
-Yapım Yılı: 2006
-Türü: Polisiye, Dram
-Yayınlanmaya Başlama Yılı: 2006
-Yönetmen: Orhan Oğuz
-Yayınlandığı Platform: Kanal D
-Yeni bir dizi eklemek istiyor musunuz? (E/H): H
+### 🎬 **Kullanıcı Girişi**
 
------ TÜM DİZİLER -----
-1️⃣ Avrupa Yakası (2004) - Tür: Komedi, Yönetmen: Yüksel Aksu, Platform: Kanal D
-2️⃣ Arka Sokaklar (2006) - Tür: Polisiye, Dram, Yönetmen: Orhan Oğuz, Platform: Kanal D
+---
 
------ KOMEDİ DİZİLERİ -----
-🎭 Avrupa Yakası - Tür: Komedi, Yönetmen: Yüksel Aksu
+### 📋 **Tüm Diziler Listesi**
+| #️⃣ | Dizi Adı          | Yapım Yılı | Türü            | Yönetmen       | Platform   |
+|----|------------------|------------|----------------|--------------|-----------|
+| 1️⃣  | **Avrupa Yakası** | 2004       | 🎭 **Komedi**   | Yüksel Aksu   | Kanal D   |
+| 2️⃣  | **Arka Sokaklar** | 2006       | 🎭 **Polisiye, Dram** | Orhan Oğuz  | Kanal D   |
+
+---
+
+### 🎭 **Komedi Dizileri**
+| #️⃣ | Dizi Adı         | Türü       | Yönetmen      |
+|----|-----------------|-----------|-------------|
+| 🎭  | **Avrupa Yakası** | Komedi    | Yüksel Aksu |
+
+---
+
+✔ **Not:**  
+- Komedi dizileri yalnızca **türüne göre filtrelenmiş** ve **isim sırasına göre** sıralanmıştır.  
+- Tüm dizilerde **yönetmen ve platform bilgileri** yer almaktadır.  
+
+---
