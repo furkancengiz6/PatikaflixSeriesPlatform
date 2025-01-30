@@ -8,7 +8,7 @@ namespace PatikaflixSeriesPlatform.Models
 {
     public class ComedySeries : BaseSeries
     {
-        //// Komedi dizileri zaten gerekli özellikleri base class'tan alıyor.
+        // Komedi dizileri zaten gerekli özellikleri base class'tan alıyor.
 
     }
 }
